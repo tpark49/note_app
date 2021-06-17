@@ -1,4 +1,4 @@
-Notely - A virtual post-it note web application 
+Notely - A virtual sticky note web application 
 
 Features: 
 1) Every note includes title and body section 
