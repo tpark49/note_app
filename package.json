@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "http://tpar49.github.io/note_app",
+  "homepage": "http://tpark49.github.io/note_app/",
   "main": "src/index.js",
   "dependencies": {
     "gh-pages": "^3.2.1",
